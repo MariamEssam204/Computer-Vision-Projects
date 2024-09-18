@@ -41,6 +41,6 @@ This project is a **Facial Keypoints Detector**, which locates key points on hum
 - 
 ### Future Work
 
--Experimenting with more sophisticated CNN architectures like **ResNet** or **EfficientNet** for better accuracy.
--Exploring **transfer learning** to leverage pre-trained models for improved performance.
+-Experimenting with more sophisticated CNN architectures like **ResNet** or **EfficientNet** for better accuracy. <br>
+-Exploring **transfer learning** to leverage pre-trained models for improved performance. <br>
 -Incorporating landmark tracking to build a real-time keypoints detection system.
