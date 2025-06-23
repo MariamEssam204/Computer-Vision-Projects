@@ -23,7 +23,7 @@ trained models (where applicable), and detailed documentation.
 ### 🤖 Robotics Applications
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [1D Localization system](./Object-Detection-notebooks/1D-localization.ipynb) |System that calculate the likehood of the location of a robot taking in the sensor's reading and motion direction. | python |
+| [1D Localization system](./Object-Detection-notebooks/Robot-Localization/1D-localization.ipynb) |System that calculate the likehood of the location of a robot taking in the sensor's reading and motion direction. | python |
 
 
 ### � Medical Imaging
