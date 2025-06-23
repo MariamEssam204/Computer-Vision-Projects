@@ -29,7 +29,7 @@ trained models (where applicable), and detailed documentation.
 ### � Medical Imaging
 | Project | Description | Technologies | Dataset |
 |---------|-------------|--------------|---------|
-| [Breast Cancer Detection](./medical/cancer_detection) | Mammogram classification | ResNet50 | CBIS-DDSM |
+| [Breast Cancer Detection](./INbreast-bresat-cancer-detection) | Mammogram classification | ResNet50 | CBIS-DDSM |
 
 
 
