@@ -2,7 +2,7 @@
 
 First, imagine you have a robot living in a 1-D world. You can think of a 1D world as a one-lane road. 
 
-<img src="Object-Detection-notebooks/images/road_1.png" width="50%" height="50%">
+<img src="Computer-Vision-Projects/Object-Detection-notebooks/images/road_1.png" width="50%" height="50%">
 
 ### Uniform Distribution
 Since the robot does not know where it is at first, the probability of being in any space is the same
