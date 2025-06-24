@@ -24,6 +24,7 @@ trained models (where applicable), and detailed documentation.
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [1D Localization system](./Object-Detection-notebooks/Robot-Localization) |System that calculate the likehood of the location of a robot taking in the sensor's reading and motion direction. | python |
+| [1D Kalman Filter](./Object-Detection-notebooks/Kalman-Filter) |A lightweight, well-tested implementation of a one-dimensional Kalman filter in Python. Built for educational clarity and robustness, with extensive validation against edge cases. | python |
 
 
 ### � Medical Imaging
